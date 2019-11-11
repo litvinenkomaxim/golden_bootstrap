@@ -1,0 +1,11 @@
+.contact-form {
+  margin-top: -50px;
+  margin-bottom: 20px;
+}
+.form-control {
+  margin: 20px;
+  text-transform: uppercase;
+  font-weight: 400;
+  color: #f3efef;
+  letter-spacing: -0.35px;
+}

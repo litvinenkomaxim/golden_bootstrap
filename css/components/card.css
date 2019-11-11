@@ -1,0 +1,34 @@
+.serv-card-img {
+    height: 73px;
+    margin-bottom: 27px;
+}
+.serv-card {
+    margin-top: 80px;
+    margin-bottom: 110px;
+}
+.card {
+    text-align: center;
+    height: 393px;
+    margin-bottom:50px ;
+}
+.serv-card-description {
+    text-align: center;
+    margin-bottom:18px ;
+}
+.card-title {
+    font-size: 18px;
+}
+.card-description {
+    font-size: 14px;
+    color: #737373;
+}
+.card-team {
+    text-align: center;
+}
+.card-social a {
+    color: black;
+}
+.card-social a:hover {
+    text-decoration: none;
+    color: black;
+}

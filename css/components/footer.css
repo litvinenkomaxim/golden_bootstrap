@@ -1,0 +1,13 @@
+.footer-img-social a {
+    padding: 0 5px;
+}
+.footer-social {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.social-description {
+  color: #555555;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: -0.35px;
+}

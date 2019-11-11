@@ -1,0 +1,13 @@
+.hero-content {
+    height: 500px;
+}
+.hero-title h2 {
+    font-size: 35px;
+    color: white;
+}
+.hero-description h1 {
+    font-size: 75px;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}

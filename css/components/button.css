@@ -1,0 +1,16 @@
+.hero-btn button {
+    background-color: #fed136;
+    text-transform: uppercase;
+    font-size: 24px;
+    border-color: #fed136;
+   font-weight: 500;
+    width: 240px;
+    height: 66px;
+}
+.hero-btn button:hover {
+    background-color: white;
+    text-transform: uppercase;
+    font-size: 24px;
+    color: yellow;
+    
+}
